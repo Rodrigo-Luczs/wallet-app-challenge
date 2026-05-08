@@ -151,8 +151,14 @@ O projeto segue arquitetura MVC do Ruby on Rails:
 - Melhorias visuais com Bootstrap
 - Deploy em nuvem
 
+# Observação sobre testes
+
+Foram adicionados testes automatizados básicos para validação das regras de negócio.
+
+Em ambiente Windows com RubyInstaller pode ocorrer incompatibilidade entre versões do Rails/Minitest durante a execução dos testes.
+
 ---
-"
+
 # Screenshots
 
 ## Lista de usuários
