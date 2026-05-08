@@ -80,7 +80,7 @@ GET /api/wallets/:id/transactions?start_date=2026-01-01&end_date=2026-12-31
 
 ## Clonar repositório
 
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Rodrigo-Luczs/wallet-app-challenge.git
 
 ---
 
