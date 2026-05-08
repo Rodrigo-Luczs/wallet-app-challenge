@@ -182,7 +182,7 @@ O projeto segue arquitetura MVC do Ruby on Rails:
 
 ![API](screenshots/api-postman.png)
 
-"
+
 # Autor
 
 Rodrigo Marques
